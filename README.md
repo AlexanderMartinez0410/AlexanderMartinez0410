@@ -75,5 +75,3 @@ I'm a **Full-Stack Developer (Angular / .NET Core)** and Software Engineering st
 Thanks for visiting! Let's build something great together ✨  
 📧 **alkut202@gmail.com** · 💼 **[LinkedIn Profile](https://www.linkedin.com/in/alexander-martinez-morillo)**
 ```
-
----
