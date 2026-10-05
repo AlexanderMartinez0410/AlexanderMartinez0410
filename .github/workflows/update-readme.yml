@@ -22,6 +22,9 @@ jobs:
     steps:
       - name: 📥 Clonar repositorio
         uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
 
       - name: ⚙️ Configurar Node.js
         uses: actions/setup-node@v4
@@ -40,7 +43,8 @@ jobs:
           if [ -n "$(git status --porcelain README.md)" ]; then
             git add README.md
             git commit -m "ci: 🤖 sincronizar telemetría y actividad en tiempo real [skip ci]"
-            git push
+            git pull --rebase origin master
+            git push origin master
           else
             echo "Sin cambios en README.md"
           fi
