@@ -1,5 +1,9 @@
+<h1 align="center">
+  <img src="https://media1.tenor.com/m/KM3VNP5d1FIAAAAC/miku-hello.gif" width="70" style="vertical-align:middle; border-radius:8px;"/>
+  Alexander Rafael Martínez Morillo
+</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,23,30&height=220&section=header&text=Alexander%20Martínez&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Frontend%20Architecture%20%26%20Applied%20AI&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Alexander Martínez Header Banner"/>
+  <strong>Full Stack Engineer | Frontend Architecture & Applied AI · <em>(DinoPengu Dev)</em></strong>
 </p>
 
 <p align="center">
@@ -35,13 +39,13 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `20 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `05 oct 2026, 10:41 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `05 oct 2026, 10:45 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔨 Pusheó **1 commit** a [`AlexanderMartinez0410/AlexanderMartinez0410`](https://github.com/AlexanderMartinez0410/AlexanderMartinez0410) `(master)` · *hace 1 min*
+- 🔨 Pusheó **1 commit** a [`AlexanderMartinez0410/AlexanderMartinez0410`](https://github.com/AlexanderMartinez0410/AlexanderMartinez0410) `(master)` · *hace 4 min*
 - 🔨 Pusheó **1 commit** a [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) `(dev_am)` · *hace 3 días*
 - 🔨 Pusheó **1 commit** a [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) `(develop)` · *hace 3 días*
 - ⚡ Actividad en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) (Delete) · *hace 3 días*
@@ -49,15 +53,7 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 - 🔀 **closed** Pull Request #27 en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) · *hace 10 días*
 <!-- RECENT_ACTIVITY:END -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderMartinez0410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=AlexanderMartinez0410&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMartinez0410&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexanderMartinez0410&theme=tokyo-night&hide_border=true" height="165" alt="Activity Graph"/>
-</p>
 
 ---
 
