@@ -191,7 +191,6 @@ Estoy activamente disponible para roles **Full-Time** (remoto o híbrido), consu
   <a href="mailto:alkut202@gmail.com"><img src="https://img.shields.io/badge/Email-alkut202%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alexander-martinez-a1261921a/"><img src="https://img.shields.io/badge/LinkedIn-Alexander%20Martínez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://wa.me/593969962799"><img src="https://img.shields.io/badge/WhatsApp-%2B593%2096%20996%202799-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://ammionline.ammi.edu.ec/#/"><img src="https://img.shields.io/badge/Web-AMMI%20Online-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 <p align="center">
