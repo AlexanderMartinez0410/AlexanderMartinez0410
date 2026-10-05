@@ -1,0 +1,46 @@
+name: Auto Update Profile README & Telemetry
+
+on:
+  schedule:
+    # Se ejecuta cada 6 horas automáticamente
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente en cualquier momento desde GitHub
+  push:
+    branches:
+      - master
+      - main
+    paths-ignore:
+      - 'README.md'
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: ⚡ Ejecutar sincronización de telemetría en tiempo real
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update-readme.mjs
+
+      - name: 🚀 Publicar cambios si hubo actualización
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git add README.md
+            git commit -m "ci: 🤖 sincronizar telemetría y actividad en tiempo real [skip ci]"
+            git push
+          else
+            echo "Sin cambios en README.md"
+          fi
