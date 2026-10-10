@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `20 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `10 oct 2026, 07:15 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `10 oct 2026, 16:26 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔨 Pusheó **1 commit** a [`AlexanderMartinez0410/MockUps`](https://github.com/AlexanderMartinez0410/MockUps) `(master)` · *hace 2 días*
-- ⚡ Actividad en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) (PullRequestReview) · *hace 2 días*
-- 🔨 Pusheó **1 commit** a [`AlexanderMartinez0410/AlexanderMartinez0410`](https://github.com/AlexanderMartinez0410/AlexanderMartinez0410) `(master)` · *hace 4 días*
-- 🔨 Pusheó **1 commit** a [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) `(dev_am)` · *hace 7 días*
-- 🔨 Pusheó **1 commit** a [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) `(develop)` · *hace 7 días*
-- ⚡ Actividad en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) (Delete) · *hace 7 días*
+- 🔨 Pusheó **1 commit** a [`AlexanderMartinez0410/MockUps`](https://github.com/AlexanderMartinez0410/MockUps) `(master)` · *hace 3 días*
+- ⚡ Actividad en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) (PullRequestReview) · *hace 3 días*
+- 🔨 Pusheó **1 commit** a [`AlexanderMartinez0410/AlexanderMartinez0410`](https://github.com/AlexanderMartinez0410/AlexanderMartinez0410) `(master)` · *hace 5 días*
+- 🔨 Pusheó **1 commit** a [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) `(dev_am)` · *hace 8 días*
+- 🔨 Pusheó **1 commit** a [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) `(develop)` · *hace 8 días*
+- ⚡ Actividad en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) (Delete) · *hace 8 días*
 <!-- RECENT_ACTIVITY:END -->
 
 
