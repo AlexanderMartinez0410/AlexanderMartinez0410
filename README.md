@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `20 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `16 oct 2026, 15:49 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `16 oct 2026, 22:55 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔀 **merged** Pull Request #227 en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 19 min*
-- 🔀 **opened** Pull Request #227 en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 23 min*
-- 🔀 **merged** Pull Request #214 en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 2 h*
-- 📌 **closed** Issue #202 en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 1 h*
-- 📌 **closed** Issue #201 en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 2 h*
-- 📌 **closed** Issue #196 en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 2 h*
+- 🔀 **opened** Pull Request #288 en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 1 min*
+- 📌 **closed** Issue #247 en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 1 h*
+- 🔀 **merged** Pull Request #273 en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 1 h*
+- 🔀 **opened** Pull Request #273 en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 1 h*
+- 📌 **closed** Issue #231 en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 1 h*
+- 🔀 **merged** Pull Request #262 en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 2 h*
 <!-- RECENT_ACTIVITY:END -->
 
 
