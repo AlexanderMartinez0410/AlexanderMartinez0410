@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `20 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `17 oct 2026, 15:24 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `17 oct 2026, 23:01 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔀 **merged** Pull Request #364 en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 16 min*
-- 🔀 **opened** Pull Request #364 en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 21 min*
-- 🔨 Pusheó **1 commit** a [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) `(docs/integrar-issues-196-201)` · *hace 22 h*
-- 🌱 Creó branch `feat/247-guia-retorno-no-entregado` en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 18 h*
-- 🔨 Pusheó **1 commit** a [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) `(develop)` · *hace 18 h*
-- 🌱 Creó branch `feat/231-seguimiento-ruta-planificador` en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *hace 18 h*
+- 🔨 Pusheó **1 commit** a [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) `(feat/242-comparacion-abc-asistente-rutas)` · *ayer*
+- 🌱 Creó branch `fix/276-comparacion-abc-datos-reales` en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *ayer*
+- 🔨 Pusheó **1 commit** a [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) `(develop)` · *ayer*
+- 🔨 Pusheó **1 commit** a [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) `(feat/247-guia-retorno-no-entregado)` · *ayer*
+- 🔨 Pusheó **1 commit** a [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) `(feat/231-seguimiento-ruta-planificador)` · *ayer*
+- 🌱 Creó branch `feat/issue-210-priorizacion-pedidos-web` en [`bryancito1090/istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform) · *ayer*
 <!-- RECENT_ACTIVITY:END -->
 
 
