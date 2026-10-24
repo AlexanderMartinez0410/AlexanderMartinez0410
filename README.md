@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `20 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `24 oct 2026, 10:43 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `24 oct 2026, 15:31 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
+- ⚡ Actividad en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) (Delete) · *ayer*
 - 🔨 Pusheó **1 commit** a [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) `(feature/58-paleta-colores-ammi)` · *ayer*
 - 🌱 Creó branch `feature/58-paleta-colores-ammi` en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *ayer*
-- 🌱 Creó branch `fix/mostrar-todos-los-pagos` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 19 h*
+- 🌱 Creó branch `fix/mostrar-todos-los-pagos` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
 - ⚡ Actividad en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) (IssueComment) · *ayer*
 - ⚡ Actividad en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) (IssueComment) · *ayer*
-- 🌱 Creó branch `fix/historial-pagos-filtros-paginacion` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 20 h*
 <!-- RECENT_ACTIVITY:END -->
 
 
