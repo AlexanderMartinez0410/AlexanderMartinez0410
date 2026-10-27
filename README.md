@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `20 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `26 oct 2026, 23:33 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `27 oct 2026, 06:55 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- 🌱 Creó branch `fix/76-asignacion-tipo-funcionario` en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 8 h*
-- 🌱 Creó branch `fix/actualizar-vite` en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 13 h*
-- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *hace 14 h*
-- ⚡ Actividad en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) (IssueComment) · *hace 7 h*
-- 📌 **closed** Issue #89 en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 7 h*
-- ⚡ Actividad en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) (IssueComment) · *hace 7 h*
+- 🌱 Creó branch `fix/89-manejo-errores-uniforme` en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 15 h*
+- 🌱 Creó branch `fix/76-asignacion-tipo-funcionario` en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 15 h*
+- 🌱 Creó branch `fix/actualizar-vite` en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 20 h*
+- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *hace 21 h*
+- ⚡ Actividad en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) (IssueComment) · *hace 15 h*
+- 📌 **closed** Issue #89 en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 15 h*
 <!-- RECENT_ACTIVITY:END -->
 
 
