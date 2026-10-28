@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `20 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `27 oct 2026, 17:01 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `28 oct 2026, 00:06 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔀 **merged** Pull Request #114 en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 55 min*
-- 🔀 **merged** Pull Request #113 en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 57 min*
-- 🔀 **merged** Pull Request #112 en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 57 min*
-- 🔀 **merged** Pull Request #103 en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 1 h*
-- 🔀 **merged** Pull Request #111 en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 1 h*
-- 📌 **closed** Issue #101 en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 1 h*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) `(develop)` · *hace 14 h*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) `(fix/76-asignacion-tipo-funcionario)` · *hace 15 h*
+- 🔀 **merged** Pull Request #114 en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 8 h*
+- 🔀 **merged** Pull Request #113 en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 8 h*
+- 🔀 **merged** Pull Request #112 en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 8 h*
+- 🔀 **merged** Pull Request #103 en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 8 h*
 <!-- RECENT_ACTIVITY:END -->
 
 
