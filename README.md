@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `20 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `29 oct 2026, 00:18 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `29 oct 2026, 07:42 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔨 Pusheó **1 commit** a [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) `(develop)` · *ayer*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) `(fix/89-manejo-errores-uniforme)` · *ayer*
-- 🔀 **merged** Pull Request #152 en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 8 h*
-- ⚡ Actividad en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) (IssueComment) · *hace 8 h*
-- 📌 **closed** Issue #145 en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 8 h*
-- ⚡ Actividad en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) (IssueComment) · *hace 8 h*
+- 🌱 Creó branch `feature/120-gestion-avisos-superadmin` en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 22 h*
+- 🌱 Creó branch `hotfix/restaurar-frontend-proxy` en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 22 h*
+- ⚡ Actividad en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) (Delete) · *hace 22 h*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) `(feature/101-plantillas-y-marca)` · *ayer*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) `(main)` · *hace 22 h*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) `(develop)` · *hace 22 h*
 <!-- RECENT_ACTIVITY:END -->
 
 
