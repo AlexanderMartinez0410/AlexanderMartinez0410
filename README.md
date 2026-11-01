@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `20 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `01 nov 2026, 00:31 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `01 nov 2026, 08:00 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- 🌱 Creó branch `feat/actualizar-icono-ammi` en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *ayer*
-- 🌱 Creó branch `feature/24-limitar-intentos-login-rate-limiting` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
+- 🌱 Creó branch `fix/22-propietario-rol-adjuntos` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
 - 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *ayer*
-- 🌱 Creó branch `feature/23-validar-contenido-archivos` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
-- 🌱 Creó branch `feature/25-revisar-endpoints-anonimos` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
-- 🌱 Creó branch `feature/actualizar-icono-ammi` en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *ayer*
+- 🌱 Creó branch `feature/21-servir-archivos-autenticado` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
+- ⚡ Actividad en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) (Delete) · *ayer*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(feature/27-secretos-fuera-de-versionado)` · *ayer*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(ci/30-prueba-humo-despliegue)` · *ayer*
 <!-- RECENT_ACTIVITY:END -->
 
 
