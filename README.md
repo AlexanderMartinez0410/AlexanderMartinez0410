@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `20 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `01 nov 2026, 08:00 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `01 nov 2026, 16:54 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- 🌱 Creó branch `fix/22-propietario-rol-adjuntos` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *ayer*
-- 🌱 Creó branch `feature/21-servir-archivos-autenticado` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
-- ⚡ Actividad en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) (Delete) · *ayer*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(feature/27-secretos-fuera-de-versionado)` · *ayer*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(ci/30-prueba-humo-despliegue)` · *ayer*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *hace 2 días*
+- 🌱 Creó branch `ci/30-prueba-humo-despliegue` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 2 días*
+- 🌱 Creó branch `fix/22-propietario-rol-adjuntos` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 2 días*
+- 🌱 Creó branch `feature/21-servir-archivos-autenticado` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 2 días*
+- ⚡ Actividad en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) (Delete) · *hace 2 días*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(feature/27-secretos-fuera-de-versionado)` · *hace 2 días*
 <!-- RECENT_ACTIVITY:END -->
 
 
