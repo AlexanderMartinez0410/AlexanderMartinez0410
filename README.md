@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `20 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `31 oct 2026, 16:16 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `01 nov 2026, 00:31 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- 🌱 Creó branch `fix/corregir-codificacion-archivos-backend` en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 2 días*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) `(develop)` · *hace 2 días*
-- 🌱 Creó branch `feature/164-busqueda-inputs-correo-personal` en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 2 días*
-- 🌱 Creó branch `fix/161-transferencia-imagenes-scp` en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 2 días*
-- ⚡ Actividad en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) (Delete) · *hace 2 días*
-- ⚡ Actividad en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) (Delete) · *hace 2 días*
+- 🌱 Creó branch `feat/actualizar-icono-ammi` en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *ayer*
+- 🌱 Creó branch `feature/24-limitar-intentos-login-rate-limiting` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *ayer*
+- 🌱 Creó branch `feature/23-validar-contenido-archivos` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
+- 🌱 Creó branch `feature/25-revisar-endpoints-anonimos` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
+- 🌱 Creó branch `feature/actualizar-icono-ammi` en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *ayer*
 <!-- RECENT_ACTIVITY:END -->
 
 
