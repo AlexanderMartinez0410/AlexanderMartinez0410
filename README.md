@@ -36,21 +36,21 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📊 Métrica en Vivo | Registro Actual | Estado Operativo |
 | :--- | :--- | :--- |
 | 🟢 **Disponibilidad Laboral** | `Disponible // Remoto (UTC-5)` | Full-Time / Consultoría B2B |
-| 📦 **Repositorios Públicos** | `20 repositorios` | Activo & Código Abierto |
+| 📦 **Repositorios Públicos** | `21 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `02 nov 2026, 10:22 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `02 nov 2026, 19:49 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- 🌱 Creó branch `chore/32-version-soporte-dotnet` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 2 días*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *hace 2 días*
-- 🌱 Creó branch `fix/29-reescritura-rutas-angular` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 2 días*
+- 🌱 Creó branch `chore/32-version-soporte-dotnet` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 3 días*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *hace 3 días*
+- 🌱 Creó branch `fix/29-reescritura-rutas-angular` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 3 días*
 - 🌱 Creó branch `test/31-pruebas-automaticas-minimas-backend` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 3 días*
-- 🌱 Creó branch `ci/30-prueba-humo-despliegue` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 2 días*
-- 🌱 Creó branch `fix/22-propietario-rol-adjuntos` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 2 días*
+- 🌱 Creó branch `ci/30-prueba-humo-despliegue` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 3 días*
+- 🌱 Creó branch `fix/22-propietario-rol-adjuntos` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 3 días*
 <!-- RECENT_ACTIVITY:END -->
 
 
