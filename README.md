@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `21 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `04 nov 2026, 09:09 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `04 nov 2026, 18:28 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- 🌱 Creó branch `chore/32-version-soporte-dotnet` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 4 días*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *hace 4 días*
-- 🌱 Creó branch `fix/29-reescritura-rutas-angular` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 4 días*
-- 🌱 Creó branch `test/31-pruebas-automaticas-minimas-backend` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 4 días*
-- 🌱 Creó branch `ci/30-prueba-humo-despliegue` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 4 días*
-- 🌱 Creó branch `fix/22-propietario-rol-adjuntos` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 4 días*
+- 🔨 Pusheó **1 commit** a [`AlexanderMartinez0410/Gestor-Gastos-Personal`](https://github.com/AlexanderMartinez0410/Gestor-Gastos-Personal) `(master)` · *hace 2 días*
+- 🔀 **merged** Pull Request #53 en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 4 h*
+- 🔀 **opened** Pull Request #53 en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 4 h*
+- 🌱 Creó branch `chore/32-version-soporte-dotnet` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 5 días*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *hace 5 días*
+- 🌱 Creó branch `fix/29-reescritura-rutas-angular` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 5 días*
 <!-- RECENT_ACTIVITY:END -->
 
 
