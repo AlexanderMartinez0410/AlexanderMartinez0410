@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `21 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `06 nov 2026, 01:00 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `06 nov 2026, 14:10 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Actividad en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) (PullRequestReview) · *hace 12 h*
-- 🔀 **merged** Pull Request #170 en [`IstpetDev/actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos) · *hace 13 h*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(main)` · *ayer*
-- 🌱 Creó branch `hotfix/recuperacion-clave-temporal` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
-- 🔨 Pusheó **1 commit** a [`AlexanderMartinez0410/Gestor-Gastos-Personal`](https://github.com/AlexanderMartinez0410/Gestor-Gastos-Personal) `(master)` · *hace 3 días*
-- 🔀 **merged** Pull Request #53 en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
+- 📌 **closed** Issue #30 en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) · *hace 1 h*
+- ⚡ Actividad en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) (IssueComment) · *hace 1 h*
+- 📌 **assigned** Issue #35 en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) · *hace 2 h*
+- 📌 **labeled** Issue #35 en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) · *hace 2 h*
+- 📌 **opened** Issue #35 en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) · *hace 2 h*
+- 📌 **assigned** Issue #34 en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) · *hace 2 h*
 <!-- RECENT_ACTIVITY:END -->
 
 
