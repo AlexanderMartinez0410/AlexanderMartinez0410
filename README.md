@@ -36,21 +36,21 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📊 Métrica en Vivo | Registro Actual | Estado Operativo |
 | :--- | :--- | :--- |
 | 🟢 **Disponibilidad Laboral** | `Disponible // Remoto (UTC-5)` | Full-Time / Consultoría B2B |
-| 📦 **Repositorios Públicos** | `21 repositorios` | Activo & Código Abierto |
+| 📦 **Repositorios Públicos** | `22 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `09 nov 2026, 10:49 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `09 nov 2026, 20:23 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Actividad en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) (PullRequestReview) · *hace 2 h*
-- 🔀 **closed** Pull Request #37 en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) · *hace 2 días*
-- 🔀 **closed** Pull Request #25 en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) · *24 sept 2026*
-- 🔀 **closed** Pull Request #26 en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) · *24 sept 2026*
-- 🔀 **closed** Pull Request #24 en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) · *24 sept 2026*
-- 🔨 Pusheó **1 commit** a [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) `(feature/31-recuperacion-contrasena)` · *hace 2 días*
+- ⚡ Actividad en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) (IssueComment) · *hace 4 h*
+- ⚡ Actividad en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) (IssueComment) · *hace 4 h*
+- 🔀 **merged** Pull Request #37 en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) · *hace 4 h*
+- ⚡ Actividad en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) (IssueComment) · *hace 4 h*
+- 📌 **closed** Issue #35 en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) · *hace 4 h*
+- ⚡ Actividad en [`JosephBano/titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet) (IssueComment) · *hace 4 h*
 <!-- RECENT_ACTIVITY:END -->
 
 
