@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `22 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `16 nov 2026, 20:47 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `17 nov 2026, 10:47 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- 🌱 Creó branch `feature/54-admin-opciones-notas-calificaciones` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 8 h*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *hace 6 h*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(main)` · *hace 6 h*
-- 🌱 Creó branch `fix/remover-modulo-rewrite-webconfig` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 6 h*
-- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *hace 8 h*
-- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *hace 8 h*
+- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *hace 20 h*
+- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *hace 19 h*
+- 🌱 Creó branch `fix/despliegue-automatico-rollback` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 20 h*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(main)` · *hace 22 h*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *hace 22 h*
+- 🌱 Creó branch `feature/54-admin-opciones-notas-calificaciones` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 22 h*
 <!-- RECENT_ACTIVITY:END -->
 
 
