@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `22 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `17 nov 2026, 10:47 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `17 nov 2026, 19:50 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *hace 20 h*
-- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *hace 19 h*
-- 🌱 Creó branch `fix/despliegue-automatico-rollback` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 20 h*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(main)` · *hace 22 h*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *hace 22 h*
-- 🌱 Creó branch `feature/54-admin-opciones-notas-calificaciones` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 22 h*
+- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *ayer*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *ayer*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(fix/orden-middleware-y-diagnostico-api)` · *ayer*
+- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *ayer*
+- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *ayer*
+- 🌱 Creó branch `fix/despliegue-automatico-rollback` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
 <!-- RECENT_ACTIVITY:END -->
 
 
