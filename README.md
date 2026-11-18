@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `22 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `17 nov 2026, 19:50 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `18 nov 2026, 10:27 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *ayer*
+- 🌱 Creó branch `fix/orden-middleware-y-diagnostico-api` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
+- 🌱 Creó branch `fix/proteger-webconfig-despliegue` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(main)` · *ayer*
 - 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *ayer*
+- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *ayer*
 - 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(fix/orden-middleware-y-diagnostico-api)` · *ayer*
-- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *ayer*
-- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *ayer*
-- 🌱 Creó branch `fix/despliegue-automatico-rollback` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *ayer*
 <!-- RECENT_ACTIVITY:END -->
 
 
