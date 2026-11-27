@@ -39,18 +39,18 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `22 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `27 nov 2026, 02:49 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `27 nov 2026, 15:57 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- 🌱 Creó branch `fix/orden-middleware-y-diagnostico-api` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 10 días*
-- 🌱 Creó branch `fix/proteger-webconfig-despliegue` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 10 días*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(main)` · *hace 10 días*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *hace 10 días*
-- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *hace 10 días*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(fix/orden-middleware-y-diagnostico-api)` · *hace 10 días*
+- 🌱 Creó branch `fix/orden-middleware-y-diagnostico-api` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 11 días*
+- 🌱 Creó branch `fix/proteger-webconfig-despliegue` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 11 días*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(main)` · *hace 11 días*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *hace 11 días*
+- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *hace 11 días*
+- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(fix/orden-middleware-y-diagnostico-api)` · *hace 11 días*
 <!-- RECENT_ACTIVITY:END -->
 
 
