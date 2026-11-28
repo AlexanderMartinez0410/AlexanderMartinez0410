@@ -39,18 +39,13 @@ Graduado como **Tecnólogo Superior en Desarrollo de Software** *(Registro Ofici
 | 📦 **Repositorios Públicos** | `22 repositorios` | Activo & Código Abierto |
 | ⭐ **Estrellas en Proyectos** | `0 estrellas` | En constante contribución |
 | 🕒 **Zona Horaria Activa** | `America/Guayaquil (UTC-5)` | Ecuador (Horario Comercial) |
-| ⚡ **Última Telemetría** | `28 nov 2026, 02:17 (UTC-5)` | *Automated via GitHub Actions* |
+| ⚡ **Última Telemetría** | `28 nov 2026, 14:48 (UTC-5)` | *Automated via GitHub Actions* |
 <!-- REALTIME_STATS:END -->
 
 ### 🔥 Actividad Pública Reciente en GitHub
 
 <!-- RECENT_ACTIVITY:START -->
-- 🌱 Creó branch `fix/orden-middleware-y-diagnostico-api` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 11 días*
-- 🌱 Creó branch `fix/proteger-webconfig-despliegue` en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) · *hace 11 días*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(main)` · *hace 11 días*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(develop)` · *hace 11 días*
-- ⚡ Actividad en [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) (Delete) · *hace 11 días*
-- 🔨 Pusheó **1 commit** a [`IstpetDev/ammi_online`](https://github.com/IstpetDev/ammi_online) `(fix/orden-middleware-y-diagnostico-api)` · *hace 11 días*
+- 🚀 Trabajando activamente en proyectos full stack sobre Angular, .NET 8 y Flutter.
 <!-- RECENT_ACTIVITY:END -->
 
 
